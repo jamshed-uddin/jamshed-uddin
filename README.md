@@ -5,6 +5,10 @@
 
 - 🌱 I’m currently learning **TypeScript and Next js**
 
+- 👨‍💻 All of my projects are available at [https://mdjamsheduddin.vercel.app/](https://mdjamsheduddin.vercel.app/)
+
+- 💬 Ask me about **React**
+
 - 📫 How to reach me **jamsheduddin03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
