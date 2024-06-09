@@ -1,6 +1,11 @@
-
 <h1 align="center">Hi 👋, I'm Md Jamshed Uddin</h1>
 <h3 align="center">A passionate frontend developer who love to build engaging, seamless and dynamic web interfaces.</h3>
+
+- 🔭 I’m currently working on **a real-time chat application**
+
+- 🌱 I’m currently learning **TypeScript and Next js**
+
+- 📫 How to reach me **jamsheduddin03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
