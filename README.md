@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Md Jamshed Uddin</h1>
-<h3 align="center">A passionate frontend developer who love to build engaging, seamless and dynamic web interfaces.</h3>
+<h1>Hi,I'm Md Jamshed Uddin👋</h1>
+<h3>A passionate frontend developer who love to build engaging, seamless and dynamic web interfaces.</h3>
 
 - 🔭 I’m currently working on **a real-time chat application**
 
