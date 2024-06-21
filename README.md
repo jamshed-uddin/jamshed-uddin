@@ -1,5 +1,7 @@
 
-<h1>Md Jamshed Uddin</h1>h1>
+<h1>Md Jamshed Uddin</h1>
+
+A passionate front-end developer familiar with back-end technologies like node js and express js.I've been really enjoying web development since I started developing this [chat application](https://mdjamsheduddin.vercel.app/) with real-time messaging with socket.io.While implementing different features and watch them work makes me go more into this field.I love to build seamless, engaging web interfaces for smooth user experience.Currently looking for an opportunity where I can make an impact quickly.  
 
 
 
