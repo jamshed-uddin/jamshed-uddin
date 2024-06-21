@@ -1,19 +1,7 @@
 
 <h1>Md Jamshed Uddin</h1>
 
-A passionate front-end developer familiar with back-end technologies like node js and express js.I've been really enjoying web development since I started developing this [chat application](https://mdjamsheduddin.vercel.app/) with real-time messaging with socket.io.While implementing different features and watch them work makes me go more into this field.I love to build seamless, engaging web interfaces for smooth user experience.Currently looking for an opportunity where I can make an impact quickly.  
-
-
-
-- 🔭 I’m currently working on **a real-time chat application**
-
-- 🌱 I’m currently learning **TypeScript and Next js**
-
-- 👨‍💻 All of my projects are available at [https://mdjamsheduddin.vercel.app/](https://mdjamsheduddin.vercel.app/)
-
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **jamsheduddin03@gmail.com**
+A passionate front-end developer familiar with back-end technologies like node js and express js. I've been really enjoying web development since I started developing this [chat application](https://github.com/jamshed-uddin/Fax_) with real-time messaging using socket.io. Implementing different features and watching them work has deepened my passion for this field. I love to build seamless, engaging web interfaces that ensure smooth user experience. Currently looking for an opportunity where I can quickly make an impactful contribution.  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdjamsheduddin) 
